@@ -4,9 +4,9 @@
 
 #### Contacts info
 
-**Email:** andrew.motko@gmail.com
-**LinkedIn:** [Link](https://www.linkedin.com/in/motko/)
-**Telegram:** @Cookie_Cap
+- **Email:** andrew.motko@gmail.com
+- **LinkedIn:** [Link](https://www.linkedin.com/in/motko/)
+- **Telegram:** @Cookie_Cap
 
 #### Summary
 
@@ -27,20 +27,22 @@ I am passionate about learning and development, with a strong desire to apply my
    [Git](https://github.com/AM1007/filmoteka_PG-13)- **[HTML, SCSS, JS, Rest API, Parcel]**
    **Team project from JS courses** _Role: Team Lead_
    The project provides a wide spectrum of movies. It is a library and movie search engine.
-2. [IceCream](https://am1007.github.io/ice-cream_landing_page/)
-   [Git](https://github.com/AM1007/IceCream_landing_page) - **[HTML, SCSS, JS, Parcel]**
-   **Team project from JS courses** _Role: Team Lead_
-   Ice Cream company landing page.
+2. [IceCream](https://am1007.github.io/IceCream__landing_page/)
+
+   - [Git](https://github.com/AM1007/IceCream__landing_page) - **[HTML, SCSS, JS, Parcel]**
+     **Team project from JS courses** _Role: Team Lead_
+     Ice Cream company landing page.
 
 3. [EnglishExcellence](https://am1007.github.io/EnglishExcellence-landing_page/)
-   [Git](https://github.com/AM1007/EnglishExcellence-landing_page) - **[HTML, SCSS, JS, Vite]**
-   **Team project from JS courses** _Role: SCRUM Master_
-   English courses company landing page.
+
+   - [Git](https://github.com/AM1007/EnglishExcellence-landing_page) - **[HTML, SCSS, JS, Vite]**
+     **Team project from JS courses** _Role: SCRUM Master_
+     English courses company landing page.
 
 4. [SimplyChocolate](https://am1007.github.io/SimplyChocolate_landing_page/)
-   [Git](https://github.com/AM1007/SimplyChocolate_landing_page) - **[HTML, SCSS, JS, Vite]**
-   **Test project from JS courses**
-   Chocolate seller landing page.
+   - [Git](https://github.com/AM1007/SimplyChocolate_landing_page) - **[HTML, SCSS, JS, Vite]**
+     **Test project from JS courses**
+     Chocolate seller landing page.
 
 #### Experience
 
