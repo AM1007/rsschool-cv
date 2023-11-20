@@ -5,8 +5,8 @@
 #### Contact info
 
 - [**Email:** andrew.motko@gmail.com](mailto:andrew.motko@gmail.com)
-- [**LinkedIn:** www.linkedin.com/in/motko/](https://www.linkedin.com/in/motko/)
-- [**Telegram:** @Cookie_Cap](https://t.me/Cookie_Cap)
+- [**LinkedIn:** www.linkedin.com/in/motko/](https://www.linkedin.com/in/motko/){:target="\_blank"}
+- [**Telegram:** @Cookie_Cap](https://t.me/Cookie_Cap){:target="\_blank"}
 
 #### Summary
 
@@ -42,9 +42,16 @@ I am passionate about learning and development, with a strong desire to apply my
      English courses company landing page.
 
 4. [SimplyChocolate](https://am1007.github.io/SimplyChocolate_landing_page/){:target="\_blank"}
-5. - [Git](https://github.com/AM1007/SimplyChocolate_landing_page){:target="\_blank"} - **[HTML, SCSS, JS, Vite]**
+
+   - [Git](https://github.com/AM1007/SimplyChocolate_landing_page){:target="\_blank"} - **[HTML, SCSS, JS, Vite]**
      **Test project from JS courses**
      Chocolate seller landing page.
+
+5. [WebStudio](https://am1007.github.io/WebStudio_landing_page/){:target="\_blank"} - **[HTML, SCSS, JS]**
+
+   - [Git](https://github.com/AM1007/WebStudio_landing_page){:target="\_blank"} - **[HTML, SCSS, JS]**
+     **Test project from JS courses**
+     Web Studio landing page.
 
 #### Experience
 
