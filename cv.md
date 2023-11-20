@@ -24,9 +24,9 @@ I am passionate about learning and development, with a strong desire to apply my
 #### Code Examples
 
 1. [Filmoteka](https://am1007.github.io/filmoteka_PG-13/)
-   [Git](https://github.com/AM1007/filmoteka_PG-13)- **[HTML, SCSS, JS, Rest API, Parcel]**
-   **Team project from JS courses** _Role: Team Lead_
-   The project provides a wide spectrum of movies. It is a library and movie search engine.
+   - [Git](https://github.com/AM1007/filmoteka_PG-13)- **[HTML, SCSS, JS, Rest API, Parcel]**
+     **Team project from JS courses** _Role: Team Lead_
+     The project provides a wide spectrum of movies. It is a library and movie search engine.
 2. [IceCream](https://am1007.github.io/IceCream__landing_page/)
 
    - [Git](https://github.com/AM1007/IceCream__landing_page) - **[HTML, SCSS, JS, Parcel]**
