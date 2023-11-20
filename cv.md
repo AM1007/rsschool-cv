@@ -4,9 +4,9 @@
 
 #### Contact info
 
-- **Email:** [andrew.motko@gmail.com](mailto:andrew.motko@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/motko/](https://www.linkedin.com/in/motko/)
-- **Telegram:** @Cookie_Cap
+- [**Email:** andrew.motko@gmail.com](mailto:andrew.motko@gmail.com)
+- [**LinkedIn:** www.linkedin.com/in/motko/](https://www.linkedin.com/in/motko/)
+- [**Telegram:** @Cookie_Cap](https://t.me/Cookie_Cap)
 
 #### Summary
 
