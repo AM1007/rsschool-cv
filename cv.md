@@ -47,7 +47,7 @@ I am passionate about learning and development, with a strong desire to apply my
      **Test project from JS courses**
      Chocolate seller landing page.
 
-5. [WebStudio](https://am1007.github.io/WebStudio_landing_page/){:target="\_blank"} - **[HTML, SCSS, JS]**
+5. [WebStudio](https://am1007.github.io/WebStudio_landing_page/){:target="\_blank"}
 
    - [Git](https://github.com/AM1007/WebStudio_landing_page){:target="\_blank"} - **[HTML, SCSS, JS]**
      **Test project from JS courses**
